@@ -1,0 +1,5 @@
+<resources>
+    <string name="dokit_plugin_host_cfg">后端主机地址</string>
+    <string name="host_placeholder">输入后端服务器接口地址</string>
+    <string name="host_label">主机地址：</string>
+</resources>

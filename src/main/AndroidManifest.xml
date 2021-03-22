@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ft.dokit">
+
+    <application>
+        <activity android:name=".activitys.FTDokitHostCfgActivity"
+            android:launchMode="singleInstance"
+            android:theme="@style/Theme.AppCompat.Light" >
+
+        </activity>
+
+
+    </application>
+
+</manifest>
